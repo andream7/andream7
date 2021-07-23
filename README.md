@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi，there 👋
 
-- :orange_book: Focusing on Java & web
+- :orange_book: Focusing on Java & Rust
 - ⚡ Fun fact: very like dark!!
 - 📫 How to reach me: 2236407598@qq.com
 - 📈 2021 aim is to code Harder than the subway station（have green grid）🤣
