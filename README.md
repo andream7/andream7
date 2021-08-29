@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi，there 👋
 
-- :orange_book: Focusing on Java & Rust
+- :orange_book: Focusing on back-end development 
+- 🌱 I’m currently learning Linux kernel & Rust
 - ⚡ Fun fact: very like dark!!
 - 📫 How to reach me: 2236407598@qq.com
 - 📈 2021 aim is to code Harder than the subway station
