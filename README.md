@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Hi，there 👋
 
 - :orange_book: Focusing on back-end development 
-- 🌱 I’m currently learning Linux kernel & Rust
+- 🌱 I’m currently learning Linux kernel & Golang
 - ⚡ Fun fact: very like dark!!
