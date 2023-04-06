@@ -22,8 +22,8 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
 ---
 
 <div align="center">
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andream7&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" style="height: 300px; margin-left: 20px;"/>
-<img width="64%" src="https://github-readme-stats.vercel.app/api?username=andream7&show_icons=true&theme=tokyonight" style="height: 300px; margin-right: 20px;" />
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andream7&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" style="height: 300px; margin-left: 20px;"/>
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=andream7&show_icons=true&theme=tokyonight" style="height: 300px; margin-right: 20px;" />
 <br>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andream7.andream7" />
