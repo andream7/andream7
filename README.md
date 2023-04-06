@@ -20,25 +20,27 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
 </div>
 
 ---
+
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andream7&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" style="height: 300px; margin-left: 20px;"/>
-<img width="57%" src="https://github-readme-stats.vercel.app/api?username=andream7&show_icons=true&theme=tokyonight" style="height: 300px; margin-right: 20px;" />
+<h3> 🤝 Connect and Reach out to me: 👇
+</h3>
+  <a href="https://twitter.com/aaadream7">
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/shukun-zhang-656546204/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://leetcode.cn/u/andream7/">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+  <a href="mailto:zshirley518@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
+  </a>
 </div>
 
 ---
 
-<div align="center">
-
-<i>Follow me around the web:</i><br>
-
-<a href="https://www.linkedin.com/in/shukun-zhang-656546204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-[//]: # (<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>)
-
-[//]: # (<a href="https://twitter.com/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>)
-
-[//]: # (<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>)
-
-[//]: # (<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>)
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andream7&count_private=true&theme=dark&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andream7&theme=dark&count_private=true" />
+</p>
