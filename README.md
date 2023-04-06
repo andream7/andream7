@@ -31,10 +31,10 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://leetcode.cn/u/andream7/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="mailto:zshirley518@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
 </div>
 
