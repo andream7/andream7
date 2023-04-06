@@ -19,15 +19,17 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
 
 </div>
 
-<div align="center">
+---
 
 <p>
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=AnuragThePathak&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" /></br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak" />
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=andream7&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andream7&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" /></br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andream7.andream7" />
 </p>
 
 ---
+
+<div align="center">
 
 <i>Follow me around the web:</i><br>
 
