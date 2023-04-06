@@ -2,6 +2,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
 
+![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
+
 <div align="center" width="50">
 
 </div>
@@ -25,16 +27,16 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
 <h3> 🤝 Connect and Reach out to me: 👇
 </h3>
   <a href="https://twitter.com/aaadream7">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/shukun-zhang-656546204/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://leetcode.cn/u/andream7/">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-F5A623?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="mailto:zshirley518@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" >
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
 </div>
 
