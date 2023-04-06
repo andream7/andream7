@@ -33,7 +33,7 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://leetcode.cn/u/andream7/">
-    <img src="https://img.shields.io/badge/Gmail-F5A623?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/LeetCode-F5A623?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="mailto:zshirley518@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" >
