@@ -22,6 +22,15 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
 </div>
 
 ---
+<div align="center">
+<h3> 👩‍💻 I am currently a
+</h3>
+Member & Contributor @Venus
+<br>
+B. Tech CSE '23
+</div>
+
+---
 
 <div align="center">
 <h3> 🤝 Connect and Reach out to me: 👇
