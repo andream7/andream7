@@ -21,7 +21,6 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
 </div>
 
 ---
-
 <div align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andream7&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" style="height: 300px; margin-left: 20px;"/>
 <img width="57%" src="https://github-readme-stats.vercel.app/api?username=andream7&show_icons=true&theme=tokyonight" style="height: 300px; margin-right: 20px;" />
