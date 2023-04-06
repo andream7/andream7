@@ -27,6 +27,8 @@ or <a href="mailto:zshirley518@gmail.com"><b>email</b></a> me.
 </h3>
 Member & Contributor @Venus
 <br>
+Web3 Developer
+<br>
 B. Tech CSE '23
 </div>
 
