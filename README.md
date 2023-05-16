@@ -2,8 +2,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
 
-![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
-
+<!-- ![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
+ -->
 <div align="center" width="50">
 
 </div>
