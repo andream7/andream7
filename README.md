@@ -37,15 +37,15 @@ B. Tech CSE '23
 <div align="center">
 <h3> 🤝 Connect and Reach out to me: 👇
 </h3>
-<!--   <a href="https://twitter.com/aaadream7">
+<!--   <a href="">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a> -->
 <!--   <a href="https://www.linkedin.com/in/shukun-zhang-656546204/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  -->
-  <a href="https://leetcode.cn/u/andream7/">
+<!--   <a href="https://leetcode.cn/u/andream7/">
     <img src="https://img.shields.io/badge/LeetCode-F5A623?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
+  </a> -->
   <a href="mailto:zshirley518@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
