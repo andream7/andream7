@@ -21,7 +21,7 @@
 </h3>
 Open Source Enthusiast
 <br>
-Web3 Developer
+Web3 & Blockchain Developer
 <br>
 B. Tech CSE '23
 </div>
